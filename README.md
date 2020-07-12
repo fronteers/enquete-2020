@@ -105,7 +105,7 @@ zelfde trend als hierboven
 ## Hoe zie je de invulling van je werk "na Corona" het liefst, en hoe belangrijk vind je deze invulling?
 
 | Invulling | Ik vind het niet heel belangrijk |  Met tegenzin accepteren | Als ik niet vaker thuis mag werken, zoek ik een andere baan/opdrachtgever |  Als ik vaker thuis *moet* werken, zoek ik een andere baan/opdrachtgever | Totaal
-| --- | ---- | ---- | ---- | ---- | ---- | ---- |
+| --- | ---- | ---- | ---- | ---- | ---- |
 Ik heb hier geen mening over | 2 | 0 | 0  | 0 | 2
 Ik wil graag 50% remote werken en 50% op lokatie | 11 | 5 | 3 | 0 | 19
 Ik wil graag full-time remote werken | 2 | 3 | 5 | 0 | 11
